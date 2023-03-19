@@ -30,7 +30,7 @@ LinkedIn: https://www.linkedin.com/in/philip-nssien/
 Medium: https://medium.com/@Nssienphilip4/
 
 #I did learn and gain so many languages and frameworks.
-#SOME OF MY CODE LANGUAGES 
+#SOME OF MY CODE LANGUAGE
 
 ##FRONT-END
 
